@@ -1,16 +1,76 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**sauravsingh2111/sauravsingh2111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🚀 Hello World, I'm Saurav Singh!
+### Full Stack Developer | Open Source Enthusiast | Tech Explorer
 
-Here are some ideas to get you started:
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGI5ZGFkYmY5ZGFkYmY5ZGFkYmY5ZGFkYmY5ZGFkYmY5ZGFkYmYmc2lkPTEmZXA9djFfaW50ZXJuYWxfZ2lmX2J5X2lkJmN0PWc/SWoSkN6DxTszqIKEqv/giphy.gif" width="600">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45A1FF&center=true&vCenter=true&width=435&lines=Building+Scalable+Solutions;Loves+React+and+Node.js;Always+Learning+Something+New;Available+for+Freelance)
+
+</div>
+
+---
+
+### 👨‍💻 About Me
+
+- 📧 **Email:** 6000sauravsingh3110@gmail.com
+- 🏢 I’m currently looking for exciting opportunities in **Full Stack Development**.
+- 🧠 I’m currently learning **Advanced System Design** and **Cloud Infrastructure**.
+- 💬 Ask me about **JavaScript, React, or Python**.
+- ⚡ Fun fact: I believe a good cup of coffee can fix any bug (almost).
+
+---
+
+### 🛠️ My Tech Stack
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,mysql,py,java,git,github,vscode,docker,aws,postman,tailwind,figma&perline=9" />
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Stats & Contributions
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sauravsingh2111&show_icons=true&theme=tokyonight&count_private=true" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sauravsingh2111&layout=compact&theme=tokyonight" height="180em" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sauravsingh2111&theme=tokyonight" />
+</div>
+
+---
+
+### 🐍 The GitHub Snake Game
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sauravsingh2111/sauravsingh2111/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sauravsingh2111/sauravsingh2111/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/sauravsingh2111/sauravsingh2111/output/github-snake.svg" />
+</picture>
+
+---
+
+### 🤝 Connect with Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-profile)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=react&logoColor=white)](https://sauravsingh2111.github.io)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:6000sauravsingh3110@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+  🔥 Show some love by starring my repositories! 🔥
+</div>
