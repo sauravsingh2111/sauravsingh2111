@@ -15,7 +15,7 @@
 
 ### 👨‍💻 About Me
 
-- 📧 **Email:** 6000sauravsingh3110@gmail.com
+- 📧 **Tg:** https://t.me/Number_Spy
 - 🏢 I’m currently looking for exciting opportunities in **Full Stack Development**.
 - 🧠 I’m currently learning **Advanced System Design** and **Cloud Infrastructure**.
 - 💬 Ask me about **JavaScript, React, or Python**.
